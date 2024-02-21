@@ -1,2 +1,2 @@
 # 8Queens
-The Famous 8-Queens Problem
+The 8-Queens Problem
